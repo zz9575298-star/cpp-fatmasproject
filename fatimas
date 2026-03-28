@@ -9,7 +9,7 @@ int main() {
 
     average = (m1 + m2 + m3) / 3;
 
-    cout << "Average = " << average << endl;
+    cout << "Student Average = " << average << endl;
 
     if (average >= 90)
         cout << "Grade: A" << endl;
